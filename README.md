@@ -25,9 +25,9 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna-Srinivasan&show_icons=true&theme=tokyonight&hide_border=true" alt="Harikrishna's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harikrishna-Srinivasan&show_icons=true&theme=tokyonight&hide_border=true" alt="Harikrishna Srinivasan GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna-Srinivasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
