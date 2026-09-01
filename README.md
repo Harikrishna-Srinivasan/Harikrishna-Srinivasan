@@ -4,7 +4,7 @@
 
 <h3>💻 Passionate CSE Undergraduate | Mathematics & Programming Enthusiast</h3>
 
-🎓 B.Tech CSE 3<sup>rd</sup> Year
+🎓 B.Tech CSE 4<sup>th</sup> Year
 📚 Learning by examples, exploring the high-level logic
 🛠️ Open-Source Contributor
 
