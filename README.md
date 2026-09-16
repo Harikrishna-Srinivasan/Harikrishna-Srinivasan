@@ -27,12 +27,12 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harikrishna-Srinivasan&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Harikrishna Srinivasan GitHub Stats"
-    height="200px"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna-Srinivasan&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=20A2C2&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
-    alt="Harikrishna's Top Languages"
-    height="200px"/>
+  <img src="./profile/stats.svg"
+       alt="Harikrishna Srinivasan GitHub Stats"
+       height="200px"/>
+  <img src="./profile/top-langs.svg"
+       alt="Harikrishna's Top Languages"
+       height="200px"/>
 </p>
 
 ### 🔥 **Current Status & Progress**  
